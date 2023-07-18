@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+}
+body, button, h1, h2, input, pre, select, textarea {
+    font-family: Inter,sans-serif;
+}
+.container{
+    height: 650px;
+    width: 100%;
+}
+
+h1{
+    color: #FFFFFF;
+    margin-top: 60px;
+    margin-bottom: 20px;
+    margin-left: 100px;
+}
+p{
+    color: #FFFFFF;
+}
+.Set1{
+    background-color: #00baf2;
+    height: 50%;
+    width: 100%;
+    padding: 10px;
+}
+.V1{
+    display: flex;
+    width: 100%;
+    text-align: center;
+    margin: 5px 50px 50px;
+}
+img{
+    width: 40%;
+}
+.V2{
+    width: 10%;
+    height: 80%;
+    text-align: center;
+    font-size: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.para-set{
+    font-size: 15px;
+    width: 100px;
+    margin-top: 10px;
+    margin-left: 50px;
+    text-align: left;
+} 
+.Set2{
+    background-color: #0f4a8a;
+    height: 40%;
+    width: 100%;
+    padding: 10px;
+}
