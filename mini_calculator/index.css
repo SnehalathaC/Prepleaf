@@ -1,0 +1,23 @@
+.top-1 {
+    display: flex;
+    align-items: center;
+    margin-top: 150px;
+    gap: 8px;
+}
+input{
+    padding: 8px;
+    justify-content: center;
+}
+.buttons
+{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    padding: 20px;
+
+}
+button
+{
+    padding: 8px 20px;
+
+}
